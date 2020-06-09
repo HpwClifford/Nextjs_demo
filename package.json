@@ -1,0 +1,26 @@
+{
+  "name": "nextjs_demo",
+  "version": "1.0.0",
+  "description": "next.js demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HpwClifford/Nextjs_demo.git"
+  },
+  "author": "Harry Clifford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HpwClifford/Nextjs_demo/issues"
+  },
+  "homepage": "https://github.com/HpwClifford/Nextjs_demo#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
